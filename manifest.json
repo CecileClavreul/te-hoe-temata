@@ -1,0 +1,28 @@
+{
+  "name": "Te Hoe o Temata",
+  "short_name": "Te Hoe",
+  "description": "Jeu de piste immersif à Papeete — retrouve la pagaie de l'ancêtre Temata Teva",
+  "start_url": "./te_hoe_app_v3_2.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07071A",
+  "theme_color": "#07071A",
+  "lang": "fr",
+  "categories": ["games", "travel", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
